@@ -1,6 +1,6 @@
 # Meat Shop Console App 🥩
 
-This is a basic console a application for managing meat products.
+This is a basic console application for managing meat products.
 
 ## 💻 Features 
 
@@ -19,9 +19,7 @@ This is a basic console a application for managing meat products.
 
 ## ▶️ How to run
 
-1. Clone the repository:
-
-(url)
+1. Clone the repository: https://github.com/Heitor-Saqueto/meatshop-java-basic
 
 2. Open the project in Eclipse.
 
