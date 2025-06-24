@@ -30,7 +30,7 @@ This is a basic console application for managing meat products.
     src/meatshop_java_basic/entities/Product.Java
 
     src/meatshop_java_basic/program/Main.java
-## 🖼️ Console output
+## 👨‍💻 Console output
 
 <p align="center">
   <img src="image.png" alt="Preview do terminal" width="600"/>
