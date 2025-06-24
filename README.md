@@ -35,6 +35,9 @@ This is a basic console application for managing meat products.
 <p align="center">
   <img src="image.png" alt="Preview do terminal" width="600"/>
 </p>
+
+
 ## 🧠 Author
 
- *Made with focus, effort, and ambition by [Heitor Saqueto] (https://github.com/Heitor-Saqueto)
+ *Made with focus, effort, and ambition by [Heitor Saqueto](https://github.com/Heitor-Saqueto)
+
