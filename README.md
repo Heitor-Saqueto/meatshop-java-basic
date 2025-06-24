@@ -30,6 +30,9 @@ This is a basic console application for managing meat products.
     src/meatshop_java_basic/entities/Product.Java
 
     src/meatshop_java_basic/program/Main.java
+## 🖼️ Console output
+
+![Preview](![image](https://github.com/user-attachments/assets/fe6b053b-ae1d-4bc3-aab3-b5e2372f762a))
 
 ## 🧠 Author
 
