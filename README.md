@@ -32,8 +32,9 @@ This is a basic console application for managing meat products.
     src/meatshop_java_basic/program/Main.java
 ## 🖼️ Console output
 
-![image](https://github.com/user-attachments/assets/fe6b053b-ae1d-4bc3-aab3-b5e2372f762a)
-
+<p align="center">
+  <img src="image.png" alt="Preview do terminal" width="600"/>
+</p>
 ## 🧠 Author
 
  *Made with focus, effort, and ambition by [Heitor Saqueto] (https://github.com/Heitor-Saqueto)
